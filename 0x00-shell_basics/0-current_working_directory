@@ -1,2 +1,2 @@
 #!/bin/bash
-this is my file
+./0-current_working_directory
