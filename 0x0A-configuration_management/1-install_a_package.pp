@@ -1,4 +1,4 @@
-# Install a package using Puppet
+# Install a package using    Puppet
 
 exec { 'install ruby':
   command => '/usr/bin/apt-get install -y ruby'
